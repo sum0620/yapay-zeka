@@ -1,0 +1,59 @@
+[
+    {
+        "time": 0,
+        "action": "Recording Started"
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            564,
+            394
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            623,
+            718
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            308,
+            823
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            356,
+            521
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            671,
+            612
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            978,
+            777
+        ]
+    },
+    {
+        "time": 3.07,
+        "action": 0,
+        "key": "Key.esc"
+    }
+]

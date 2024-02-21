@@ -1,0 +1,160 @@
+[
+    {
+        "time": 0,
+        "action": "Recording Started"
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            672,
+            729
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            976,
+            821
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            653,
+            835
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            342,
+            990
+        ]
+    },
+    {
+        "time": 4.04,
+        "action": 3,
+        "coordinate": [
+            165,
+            1057
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            682,
+            908
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            987,
+            788
+        ]
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1311,
+            633
+        ]
+    },
+    {
+        "time": 1.57,
+        "action": 0,
+        "key": "Key.ctrl_l"
+    },
+    {
+        "time": 0.26,
+        "action": 0,
+        "key": "\u0014"
+    },
+    {
+        "time": 0.17,
+        "action": 1,
+        "key": "\u0014"
+    },
+    {
+        "time": 0.12,
+        "action": 1,
+        "key": "Key.ctrl_l"
+    },
+    {
+        "time": 8.04,
+        "action": 0,
+        "key": "m"
+    },
+    {
+        "time": 0.11,
+        "action": 0,
+        "key": "e"
+    },
+    {
+        "time": 0.03,
+        "action": 1,
+        "key": "m"
+    },
+    {
+        "time": 0.11,
+        "action": 1,
+        "key": "e"
+    },
+    {
+        "time": 0.2,
+        "action": 0,
+        "key": "b"
+    },
+    {
+        "time": 0.19,
+        "action": 1,
+        "key": "b"
+    },
+    {
+        "time": 0.58,
+        "action": 0,
+        "key": "Key.enter"
+    },
+    {
+        "time": 0.08,
+        "action": 1,
+        "key": "Key.enter"
+    },
+    {
+        "time": 0.59,
+        "action": 4,
+        "coordinate": [
+            1422,
+            572
+        ],
+        "direction": "up"
+    },
+    {
+        "time": 0,
+        "action": 2,
+        "coordinate": [
+            1010,
+            746
+        ]
+    },
+    {
+        "time": 1.49,
+        "action": 3,
+        "coordinate": [
+            968,
+            768
+        ]
+    },
+    {
+        "time": 2.6,
+        "action": 0,
+        "key": "Key.esc"
+    }
+]
